@@ -2,6 +2,8 @@
 
 A macOS app that reads QR code images and rebuilds them as safer PDF/SVG files for DTP workflows.
 
+[日本語 README](README.md)
+
 ![Main window](screenshots/main-window.png)
 
 ![Editor panel](screenshots/editor-panel.png)
