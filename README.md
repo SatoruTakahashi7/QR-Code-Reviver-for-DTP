@@ -2,6 +2,8 @@
 
 QRコード画像を読み取り、DTP向けに安全なPDF/SVGとして再構成する macOS アプリです。
 
+[English README](README.en.md)
+
 ![Main window](screenshots/main-window.png)
 
 ![Editor panel](screenshots/editor-panel.png)
