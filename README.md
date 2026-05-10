@@ -2,6 +2,10 @@
 
 QRコード画像を読み取り、DTP向けに安全なPDF/SVGとして再構成する macOS アプリです。
 
+![Main window](screenshots/main-window.png)
+
+![Editor panel](screenshots/editor-panel.png)
+
 ## 概要
 
 「QRコードを復活させるやつ」は、歪み・ボケ・低解像度などで扱いにくくなったQRコード画像を、DTP作業で使いやすい形に整えるためのアプリです。
